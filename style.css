@@ -11,6 +11,7 @@ body {
 
 /* Style the header */
 header {
+    font-family: "Times New Roman", Times, serif;
     background-color: #666;
     padding: 30px;
     text-align: center;
@@ -25,6 +26,7 @@ div {
     background: deepskyblue;
 }
 p {
+    font-style: oblique;
     margin-top: 40%;
     vertical-align: middle;
     background: deepskyblue;
