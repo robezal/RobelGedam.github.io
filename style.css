@@ -22,10 +22,12 @@ div {
     display:inline-block;
     margin: 0;
     width: 40%;
+    background: deepskyblue;
 }
 p {
     margin-top: 40%;
     vertical-align: middle;
+    background: deepskyblue;
 }
 img{
     display:inline-block;
@@ -37,6 +39,7 @@ button{
     margin: 0 auto;
     width: 200px;
     height: 100px;
+    background: orange;
 }
 section{
     margin: 0 auto;
